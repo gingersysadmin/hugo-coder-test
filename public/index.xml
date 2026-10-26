@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My Blog</title>
+		<link>http://www.example.com/</link>
+		<description>Recent content on My Blog</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 19:49:12 -0400</lastBuildDate>
+		
+			<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contact</title>
+				<link>http://www.example.com/contact/</link>
+				<pubDate>Mon, 26 Oct 2026 19:49:12 -0400</pubDate>
+				<guid>http://www.example.com/contact/</guid>
+				<description>&lt;p&gt;Email: &lt;a href=&#34;mailto:test@example.com&#34; &gt;test@example.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Phone: &lt;a href=&#34;tel:123-456-7890&#34;&gt;123-456-7890&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My First Project</title>
+				<link>http://www.example.com/projects/my-first-project/</link>
+				<pubDate>Mon, 26 Oct 2026 19:48:48 -0400</pubDate>
+				<guid>http://www.example.com/projects/my-first-project/</guid>
+				<description>&lt;p&gt;My first project.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My First Post</title>
+				<link>http://www.example.com/posts/my-first-post/</link>
+				<pubDate>Mon, 26 Oct 2026 19:47:18 -0400</pubDate>
+				<guid>http://www.example.com/posts/my-first-post/</guid>
+				<description>&lt;p&gt;This is my first post.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>http://www.example.com/about/</link>
+				<pubDate>Mon, 26 Oct 2026 19:45:08 -0400</pubDate>
+				<guid>http://www.example.com/about/</guid>
+				<description>&lt;p&gt;A bit about me.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

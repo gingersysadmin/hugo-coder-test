@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on My Blog</title>
+		<link>http://www.example.com/projects/</link>
+		<description>Recent content in Projects on My Blog</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 26 Oct 2026 19:48:48 -0400</lastBuildDate>
+		
+			<atom:link href="http://www.example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Project</title>
+				<link>http://www.example.com/projects/my-first-project/</link>
+				<pubDate>Mon, 26 Oct 2026 19:48:48 -0400</pubDate>
+				<guid>http://www.example.com/projects/my-first-project/</guid>
+				<description>&lt;p&gt;My first project.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
